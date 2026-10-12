@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chauvin.quentin72<Ã@gmail.com
+	name = Quentin CHAUVIN
